@@ -1,4 +1,4 @@
-import { fromJS } from '../../src/commutable';
+import { fromJS } from '../../src/packages/commutable';
 
 export const dummy = '{"cells":[{"cell_type":"markdown","metadata":{},\
 "source":["## The Notable Nteract Notebook\\n","\\n","**It\'s a notebook!**\\n"]},\

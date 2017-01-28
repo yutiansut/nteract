@@ -7,11 +7,11 @@ import {
   emptyCodeCell,
   emptyMarkdownCell,
   fromJS,
-} from '../../../src/commutable';
+} from '../../../src/packages/commutable';
 
 import {
   appendCellToNotebook,
-} from '../../../src/commutable/structures';
+} from '../../../src/packages/commutable/structures';
 
 
 import { DocumentRecord, MetadataRecord } from '../../../src/notebook/records';
