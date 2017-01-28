@@ -8,11 +8,11 @@ import {
   emptyCodeCell,
   emptyMarkdownCell,
   fromJS,
-} from '../../../src/packages/commutable';
+} from '../../../packages/commutable';
 
 import {
   appendCellToNotebook,
-} from '../../../src/packages/commutable/structures';
+} from '../../../packages/commutable/structures';
 
 import { dummyCommutable } from '../dummy-nb';
 import { List } from 'immutable';

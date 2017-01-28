@@ -6,12 +6,12 @@ import {
   monocellNotebook,
   fromJS,
   parseNotebook,
-} from '../../packages/commutable';
+} from '../../../packages/commutable';
 
 import type {
   Notebook,
   ImmutableNotebook,
-} from '../../packages/commutable';
+} from '../../../packages/commutable';
 
 import { readFileObservable } from '../../utils/fs';
 import { newKernelByName, newKernel } from '../actions';

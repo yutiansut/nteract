@@ -12,7 +12,7 @@ const expect = chai.expect;
 import {
   emptyCodeCell,
   emptyMarkdownCell,
-} from '../../../../src/packages/commutable';
+} from '../../../../packages/commutable';
 
 import { dummyStore } from '../../../utils';
 

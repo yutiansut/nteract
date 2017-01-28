@@ -15,7 +15,7 @@ import { Cell } from '../../../../src/notebook/components/cell/cell';
 import {
   emptyCodeCell,
   emptyMarkdownCell,
-} from '../../../../src/packages/commutable';
+} from '../../../../packages/commutable';
 
 import { displayOrder, transforms } from '../../../../src/notebook/components/transforms';
 
